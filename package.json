@@ -20,7 +20,7 @@
     "json-patch": "git://github.com/xtuple/JSON-Patch.git",
     "less": "1.5.0",
     "moment": "2.4.x",
-    "node-forge": "0.6.x",
+    "node-forge": "0.10.0",
     "nodemailer": "0.3.x",
     "oauth2orize": "0.1.x",
     "oauth2orize-jwt-bearer": "0.1.x",
