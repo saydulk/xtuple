@@ -10,7 +10,7 @@
   "dependencies": {
     "async": "0.2.x",
     "backbone": "0.9.10",
-    "backbone-relational": "0.8.0",
+    "backbone-relational": "0.10.0",
     "bcrypt": "^0.8.0",
     "colors": "0.6.x",
     "commander": "1.2.x",
