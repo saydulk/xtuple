@@ -33,7 +33,7 @@
     "paynode": "0.3.6",
     "pegjs": "0.8.x",
     "pg": "0.14.x",
-    "request": "2.14.x",
+    "request": "2.88.2",
     "rimraf": "2.2.x",
     "rjson": "~0.2.4",
     "socket.io": "0.9.x",
