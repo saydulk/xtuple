@@ -34,7 +34,7 @@
     "pegjs": "0.8.x",
     "pg": "0.14.x",
     "request": "2.14.x",
-    "rimraf": "2.2.x",
+    "rimraf": "2.7.1",
     "rjson": "~0.2.4",
     "socket.io": "0.9.x",
     "underscore": "1.6.x",
