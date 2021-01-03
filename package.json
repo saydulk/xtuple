@@ -24,7 +24,7 @@
     "nodemailer": "0.3.x",
     "oauth2orize": "0.1.x",
     "oauth2orize-jwt-bearer": "0.1.x",
-    "passport": "0.1.x",
+    "passport": "0.4.1",
     "passport-http": "0.2.x",
     "passport-http-bearer": "0.2.x",
     "passport-local": "0.1.x",
